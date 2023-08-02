@@ -9,5 +9,7 @@
 - VSCode
     - Live Server
 
+## TODO
+[x] 헤더완성
+[] 나머지?
 ## REF
- .gitignore
