@@ -10,4 +10,3 @@
     - Live Server
 
 ## REF
- .gitignore
