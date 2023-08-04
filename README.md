@@ -7,6 +7,7 @@
 해당 저장소는 VSCode의 Live Server를 활용해서 Chrome에 최저화 시킨 프로젝트 입니다. 아래 제시된 프로그램을 활용해주세요.
 
 - Chrome (필수)
+
 - VSCode
   - Live Server
 
@@ -15,11 +16,12 @@
 - [x] 헤더
 - [x] 메인
 - [ ] 섹션
-  - [ ] About Me
+  - [x] About Me
+  - [x] Contact With Me
   - [ ] What I Do
   - [ ] Background
   - [ ] PortFolio
-  - [ ] Contact With Me
+
 
 ## Ref.
 
